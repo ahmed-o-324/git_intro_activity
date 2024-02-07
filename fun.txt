@@ -14,5 +14,12 @@ Rating:
 Commit early, commit often. A tip for version controlling - not for relationships
 
 Rating: 
+---
+
+a = mx + b
+
+Rating:  
+
+---
  
 
